@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_id">sampleapp</string>
+    <string name="app_name">Sample</string>
+    <string name="default_notification_channel_id">sampleapp</string>
+    <string name="intent_filter_label">Sample Apps</string>
+    
+</resources>
